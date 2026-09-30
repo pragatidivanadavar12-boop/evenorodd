@@ -1,4 +1,5 @@
 a=int(input("enter number"))
+print("pragati")
 if a%2==0:
   print("even number")
 else:
